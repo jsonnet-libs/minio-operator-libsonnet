@@ -2,32 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://jsonnet-libs.github.io/minio-operator-libsonnet/</loc>
-         <lastmod>2024-06-07</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jsonnet-libs.github.io/minio-operator-libsonnet/v5.0.11/</loc>
-         <lastmod>2024-06-07</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jsonnet-libs.github.io/minio-operator-libsonnet/v5.0.12/</loc>
-         <lastmod>2024-06-07</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jsonnet-libs.github.io/minio-operator-libsonnet/v5.0.13/</loc>
-         <lastmod>2024-06-07</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jsonnet-libs.github.io/minio-operator-libsonnet/v5.0.14/</loc>
-         <lastmod>2024-06-07</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-11</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/minio-operator-libsonnet/v5.0.15/</loc>
-         <lastmod>2024-06-07</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/minio-operator-libsonnet/v5.0.15/job/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/minio-operator-libsonnet/v5.0.15/job/v1alpha1/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/minio-operator-libsonnet/v5.0.15/job/v1alpha1/minIOJob/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/minio-operator-libsonnet/v5.0.15/minio/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/minio-operator-libsonnet/v5.0.15/minio/v2/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/minio-operator-libsonnet/v5.0.15/minio/v2/tenant/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/minio-operator-libsonnet/v6.0.0/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/minio-operator-libsonnet/v6.0.0/job/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/minio-operator-libsonnet/v6.0.0/job/v1alpha1/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/minio-operator-libsonnet/v6.0.0/job/v1alpha1/minIOJob/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/minio-operator-libsonnet/v6.0.0/minio/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/minio-operator-libsonnet/v6.0.0/minio/v2/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/minio-operator-libsonnet/v6.0.0/minio/v2/tenant/</loc>
+         <lastmod>2024-10-11</lastmod>
     </url>
 </urlset>
